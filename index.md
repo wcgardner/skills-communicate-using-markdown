@@ -2,6 +2,11 @@
 
 Added an H1 Header
 
+## ToDo
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ```
 test
 ```
